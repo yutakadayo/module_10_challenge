@@ -6,11 +6,11 @@
 ---
 ## Examples of the output
 
-**Elbow Curve for both original dataset and after performed Principal Component Analysys**
+Elbow Curve to identify number of clusters
 
 ![Elbow Curve](/Images/Elbow_Curve.png)
 
-**Plot with clusters**
+Scatter Plot with clusters
 
 ![Scatter Plot](/Images/Plot.png)
 
